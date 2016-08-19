@@ -1,1 +1,1 @@
-# yandex_news_parser0
+Simple CLI yandex news parser
