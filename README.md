@@ -1,4 +1,4 @@
-Simple CLI yandex news parser. Display global and city news in console.
+Simple CLI yandex news parser. Display global and city news from yandex.ru in console.
 
 **Example:**
 ```
